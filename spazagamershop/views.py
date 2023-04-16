@@ -1,5 +1,7 @@
 from django.shortcuts import render
+from datetime import datetime
 
 # Create your views here.
 def index(request):
-    return render(request, 'index.html')
+    now = datetime.now() # get the current datetime
+    return render(request, 'index.html', {'now': now})
