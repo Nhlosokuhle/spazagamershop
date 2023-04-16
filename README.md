@@ -8,16 +8,16 @@ To use the app, simply go to https://spazagamershop.herokuapp.com/ in your web b
 
 ## Installation
 ### Using docker:
-* Clone the repository: git clone https://github.com/Nhlosokuhle/minotes.git
-* Navigate to the project directory: cd minotes
+* Clone the repository: https://github.com/Nhlosokuhle/spazagamershop.git
+* Navigate to the project directory: cd spazagamershop
 * MAKE SURE THAT DOCKER DESKTOP IS OPENED
-* Build the Docker image: docker build -t minotes .
-* Run the Docker container: docker run -p 8000:8000 minotes
+* Build the Docker image: docker build -t spazagamershop .
+* Run the Docker container: docker run -p 8000:8000 spazagamershop
 * After following the installation instructions, you should be able to access the Django project by navigating to http://localhost:8000 in your web browser. From there, you can create the account and access the menu.
 
 ### On your pc:
-* Clone the repository: git clone https://github.com/Nhlosokuhle/minotes.git
-* Navigate to the project directory: cd minotes
+* Clone the repository: git clone https://github.com/Nhlosokuhle/spazagamershop.git
+* Navigate to the project directory: cd spazagamershop
 * Run the following command: py managr.py runserver
 * After following the installation instructions, you should be able to access the Django project by navigating to http://localhost:8000 in your web browser.
 
