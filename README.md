@@ -1,7 +1,7 @@
 # spaza gamer shop
 
 ## Description of the web application
-Spaza Gamer Shops is a simple e-commerce web application built with Django. The app allows users to browse video games that are available at the store.
+Spaza Gamer Shop is a simple e-commerce web application built with Django. The app allows users to browse video games that are available at the store.
 
 ## Usage
 To use the app, simply go to https://spazagamershop.herokuapp.com/ in your web browser.
@@ -21,7 +21,7 @@ To use the app, simply go to https://spazagamershop.herokuapp.com/ in your web b
 * Run the following command: py managr.py runserver
 * After following the installation instructions, you should be able to access the Django project by navigating to http://localhost:8000 in your web browser.
 
-The application is available online at https://minotes7.herokuapp.com/
+The application is available online at https://spazagamershop.herokuapp.com/
 
 ## Author(s)
 Nhlosokuhle Bandile Khoza
